@@ -39,15 +39,15 @@ Based on these inputs, the system predicts the most suitable crop.
 ```
 
 Crop-Suggestion/
-├──templates/index.html             #HTML file for frontend
-├──Vizualization                    #Folder contraining information about plots and vizualization
-├── app.py                          # Flask web app
+├── templates/index.html             #HTML file for frontend
+├── Vizualization                    #Folder contraining information about plots and vizualization
+├── app.py                           # Flask web app
 ├── Crop_recommendation.pkl          # Trained model
-├──encoder.pkl                      #Label encoder model
-├── Crop_Recommendation.ipynb       # Notebook with model training
-├── app.py                          # Streamlit web app
-├──requirements.txt                 # To install dependencies
-└── README.md                       # Project documentation
+├── encoder.pkl                      #Label encoder model
+├── Crop_Recommendation.ipynb        # Notebook with model training
+├── app.py                           # Streamlit web app
+├── requirements.txt                 # To install dependencies
+└── README.md                        # Project documentation
 
 ````
 
