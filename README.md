@@ -4,7 +4,7 @@ A machine learning-based Crop Suggestion System that recommends the most suitabl
 
 ## 🚀 Project Overview
 
-This project uses a pre-trained classification model to analyze various soil and climate parameters and suggest the most appropriate crop for cultivation. It's useful for farmers, agricultural students, and researchers to make data-driven agricultural decisions.
+This project creates and uses classification model to analyze various soil and climate parameters and suggest the most appropriate crop for cultivation. It's useful for farmers, agricultural students, and researchers to make data-driven agricultural decisions.
 
 ## 🧠 How It Works
 
