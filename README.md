@@ -1,8 +1,3 @@
-Here is a `README.md` file based on the GitHub repository you shared: [https://github.com/Mandhra/Crop-Suggestion](https://github.com/Mandhra/Crop-Suggestion). The file includes an overview, features, tech stack, setup instructions, and more, assuming it’s a crop recommendation system built using a trained model.
-
----
-
-```markdown
 # 🌾 Crop Suggestion System
 
 A machine learning-based Crop Suggestion System that recommends the most suitable crop to grow based on environmental conditions like Nitrogen, Phosphorous, Potassium, Temperature, Humidity, pH, and Rainfall.
