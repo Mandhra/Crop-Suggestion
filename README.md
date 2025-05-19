@@ -58,7 +58,6 @@ Crop-Suggestion/
    git clone https://github.com/Mandhra/Crop-Suggestion.git
    cd Crop-Suggestion
 ```
-```
 2. **Create a virtual environment (optional but recommended)**
 
    ```bash
