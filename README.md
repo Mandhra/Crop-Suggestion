@@ -86,7 +86,7 @@ Crop-Suggestion/
 
 ## 🎯 Output
 
-`Suggested Crop: rice`
+`Suggested Crop: jute`
 
 ## 📌 Future Enhancements
 
