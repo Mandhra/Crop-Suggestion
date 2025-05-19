@@ -24,7 +24,7 @@ Based on these inputs, the system predicts the most suitable crop.
 
 - Input form to provide environmental parameters.
 - Predicts the best crop using a machine learning model.
-- Clean and minimal UI using Streamlit.
+- Clean and minimal UI using Flask.
 - Easy to deploy and use.
 
 ## 🛠 Tech Stack
@@ -32,16 +32,21 @@ Based on these inputs, the system predicts the most suitable crop.
 - Python
 - Pandas, NumPy
 - Scikit-learn
-- Streamlit
+- Flask
 
 ## 📁 Directory Structure
 
 ```
 
 Crop-Suggestion/
-├── crop\_recommendation\_model.pkl   # Trained model
-├── Crop\_recommendation.ipynb       # Notebook with model training
+├──templates/index.html             #HTML file for frontend
+├──Vizualization                    #Folder contraining information about plots and vizualization
+├── app.py                          # Flask web app
+├── Crop_recommendation.pkl          # Trained model
+├──encoder.pkl                      #Label encoder model
+├── Crop_Recommendation.ipynb       # Notebook with model training
 ├── app.py                          # Streamlit web app
+├──requirements.txt                 # To install dependencies
 └── README.md                       # Project documentation
 
 ````
@@ -70,7 +75,7 @@ Crop-Suggestion/
 4. **Run the application**
 
    ```bash
-   streamlit run app.py
+   python app.py
    ```
 
 ## 📊 Example Input
@@ -104,6 +109,4 @@ Feel free to contribute or raise issues to improve this project!
 ```
 
 ---
-
-Let me know if you want a version with a badge, deployment instructions (e.g., Streamlit Cloud or Hugging Face), or if you want to turn this into a full project page with images.
 ```
