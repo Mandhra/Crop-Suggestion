@@ -107,6 +107,4 @@ Developed by [Mandhra](https://github.com/Mandhra)
 Feel free to contribute or raise issues to improve this project!
 
 ```
-
----
 ```
